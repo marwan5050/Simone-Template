@@ -1302,6 +1302,7 @@ font-weight: 600;
     margin: auto;
     display: flex;
     justify-content: space-between;
+    
 }
 .portfolio .item{
     width: 30%;
@@ -1314,6 +1315,7 @@ font-weight: 600;
     position: relative;
     overflow: hidden;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 .portfolio .item .icon .layer{
     position: absolute;
